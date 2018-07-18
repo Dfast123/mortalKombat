@@ -1,0 +1,6 @@
+c:\users\dfast\documents\visual studio 2013\Projects\mortalKombat\mortalKombat\bin\Debug\mortalKombat.exe.config
+c:\users\dfast\documents\visual studio 2013\Projects\mortalKombat\mortalKombat\obj\Debug\mortalKombat.csprojResolveAssemblyReference.cache
+c:\users\dfast\documents\visual studio 2013\Projects\mortalKombat\mortalKombat\bin\Debug\mortalKombat.exe
+c:\users\dfast\documents\visual studio 2013\Projects\mortalKombat\mortalKombat\bin\Debug\mortalKombat.pdb
+c:\users\dfast\documents\visual studio 2013\Projects\mortalKombat\mortalKombat\obj\Debug\mortalKombat.exe
+c:\users\dfast\documents\visual studio 2013\Projects\mortalKombat\mortalKombat\obj\Debug\mortalKombat.pdb
